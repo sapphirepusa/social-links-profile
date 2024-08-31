@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    font-family: "Inter", sans-serif;
+
+}
+
+h2,h5 {
+    margin: 0;
+}
+
+body {
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8.9rem 0 3rem 0;
+}
+
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    width: 24.06rem;
+    height: 38.2rem;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 0.8rem;
+}
+
+section div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2.5rem;
+}
+
+img {
+    border-radius: 50%;
+    width: 5.5rem;
+    margin-bottom: 1.6rem;
+}
+
+h2 {
+    font-weight: 440;
+    font-size: 25px;
+}
+
+h5 {
+    margin-top: 0.5rem;
+    color: hsl(75, 94%, 57%);
+    font-weight: 450;
+    font-size: 14px;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 200;
+    margin-top: 1.8rem;
+}
+
+
+.button-gap {
+    gap: 1.2rem;
+    padding: 0.5rem;
+}
+
+button {
+    width: 19rem;
+    height: 2.7rem;
+    border-radius: 0.5rem;
+    border-style: none;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    font-weight: 500;
+    font-size: 14px;
+}
+
+
+
+
+
