@@ -77,11 +77,14 @@ button {
     border-style: none;
     background-color: hsl(0, 0%, 20%);
     color: hsl(0, 0%, 100%);
-    font-weight: 500;
+    font-weight: 600;
     font-size: 14px;
 }
 
-
-
-
+button:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+    font-weight: 600;
+    cursor: url('/design/Screenshot\ 2024-09-01\ 183000.png'), pointer;
+}
 
