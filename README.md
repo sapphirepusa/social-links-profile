@@ -12,4 +12,4 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Screenshot of my Final Project
 ### Web View
-  ![Design preview for the Recipe page coding challenge](./design/snippet-web-view-active.png)
+  ![Design preview for the coding challenge](./design/snippet-web-view-active.png)
