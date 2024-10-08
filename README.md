@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Social links profile
 
 ## Welcome! 👋
 
